@@ -10,6 +10,8 @@ This is an application which accepts a PDF file upload, converts the PDF to indi
 
 ## Installing Pre-Requests
 
+Requirements: Node.js, npm
+
 ### Ubuntu:
 
 `sudo apt-get install imagemagick graphicsmagick`
@@ -21,6 +23,8 @@ This is an application which accepts a PDF file upload, converts the PDF to indi
 ## Running the server
 
 This will launch both the backend Node.js server and the front-end react/next application
+
+`npm install`
 `yarn stack`
 
 ## Viewing the application
