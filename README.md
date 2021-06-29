@@ -24,9 +24,10 @@ Requirements: Node.js, npm
 
 This will launch both the backend Node.js server and the front-end react/next application
 
-```npm install
+```
+npm install
 yarn stack
-`
+```
 
 ## Viewing the application
 
